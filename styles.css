@@ -3,10 +3,11 @@ body {
 }
 
 div.logo {
+   color: white;
    text-align: center;
    border-style: solid;
    border-width: thick;
-   border-color: coral;
+   border-color: #6495ED;
 }
 
 div.foot {
