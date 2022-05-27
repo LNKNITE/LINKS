@@ -2,6 +2,12 @@ body {
    font-family: Ubuntu, sans-serif;
 }
 
+div.logo {
+   text-align: center;
+   border-style: solid;
+   border-color: coral;
+}
+
 div.foot {
   position: fixed;
   left: 0;
