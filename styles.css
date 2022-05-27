@@ -28,15 +28,3 @@ marquee {
         color: white;
 }
 
-a.line:link, a.line:visited {
-  background-color: #f44336;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-}
-
-a.line:hover, a.line:active {
-  background-color: red;
-}
