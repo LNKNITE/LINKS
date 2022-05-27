@@ -28,3 +28,8 @@ marquee {
         color: white;
 }
 
+div.links {
+
+a.line {
+    text-decoration: none;
+}
