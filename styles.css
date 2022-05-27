@@ -1,3 +1,7 @@
+body {
+   font-family: Ubuntu, sans-serif;
+}
+
 div.foot {
   position: fixed;
   left: 0;
@@ -7,3 +11,4 @@ div.foot {
   color: black;
   text-align: center;
 }
+
