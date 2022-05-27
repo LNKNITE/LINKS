@@ -19,3 +19,9 @@ div.foot {
   text-align: center;
 }
 
+marquee {
+        width: 100%;
+        padding: 10px 0;
+        background-color: tomato;
+        color: white;
+}
