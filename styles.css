@@ -28,7 +28,7 @@ marquee {
         color: white;
 }
 
-a:link, a:visited {
+a.line:link, a.line:visited {
   background-color: #f44336;
   color: white;
   padding: 14px 25px;
@@ -37,6 +37,6 @@ a:link, a:visited {
   display: inline-block;
 }
 
-a:hover, a:active {
+a.line:hover, a.line:active {
   background-color: red;
 }
