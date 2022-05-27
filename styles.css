@@ -1,5 +1,5 @@
-html {
-   font-family: Ubuntu;
+body {
+    font-family: 'Ubuntu';font-size: 22px;
 }
 
 div.logo {
