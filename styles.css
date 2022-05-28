@@ -29,11 +29,8 @@ marquee {
         color: white;
 }
 
-body, html {
-  height: 100%;
-}
 
-.bg {
+html {
   
   background-image: url("img/1653714827458.jpg");
 
